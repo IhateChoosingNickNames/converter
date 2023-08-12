@@ -1,5 +1,5 @@
 # Converter
-Simple API for conversion currency
+Simple API for converting currency
 
 
 Used technologies:
@@ -16,7 +16,7 @@ Used technologies:
 
 
 ## Set enviroment:
-Fill go to /infra folder and create and fill .env file according to shown in .env.sample file.
+Go to /infra folder and create and fill .env file according to shown in .env.sample file.
 - SECRET_KEY=... # secret key from Django project
 - CONTAINER_NAME=backend # name of your backend container
 - API_KEY=... - key for http://api.exchangeratesapi.io
